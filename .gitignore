@@ -6,6 +6,7 @@
 *.DS_Store
 *.html
 *.pdf
+*.idea
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
